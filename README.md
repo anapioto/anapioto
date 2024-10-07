@@ -3,13 +3,13 @@
 
 <p align="left"> 
   Bem-vindo(a), meu nome é <strong>Ana Pioto</strong>.<br>
-  Sou Técnica em Informática e estudante do 1° semestre de Ciência da Computação. <br>
+  Sou Técnica em Informática e estudante de Ciência da Computação. <br>
   Estou estudando desenvolvimento fulltack, para entender melhor os dois lados. <br>
   Por aqui vou compartilhar meus projetos da faculdade e de cursos por fora.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Phyton, HTML e CSS.
+  🦄 Linguagens: Java, Python, HTML e CSS.
 </p>
 
 <p align="left">
